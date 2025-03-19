@@ -2,6 +2,10 @@
 
 A full-stack task management system with a **React.js frontend** and **Node.js backend** that allows administrators to manage agents and assign tasks dynamically via CSV uploads. The system includes authentication using JWT, secure agent management, and task distribution.
 
+##Login Credentials (Admin Login)
+Email - CHIRAGTANK1971@GMAIL.COM
+Password - Peta.nahi23
+
 ## 🚀 Features
 
 - **JWT Authentication** for secure API access.
