@@ -122,6 +122,9 @@ mern_project/
 - Ensure CSV files include headers: `FirstName, Phone, Notes`.
 - Use the React frontend for easy management.
 
+### 🎥 Project Presentation
+[📹 Watch the Video]([https://drive.google.com/file/d/YOUR_VIDEO_ID/view](https://drive.google.com/file/d/1Ug_Oo_M_o0uxVMMDVAaWWElemRcpu3dC/view?usp=sharing))
+
 
 ### 🔗 Connect with Me
 
