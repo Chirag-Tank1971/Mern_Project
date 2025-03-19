@@ -123,7 +123,7 @@ mern_project/
 - Use the React frontend for easy management.
 
 ### 🎥 Project Presentation
-[📹 Watch the Video]([https://drive.google.com/file/d/YOUR_VIDEO_ID/view](https://drive.google.com/file/d/1Ug_Oo_M_o0uxVMMDVAaWWElemRcpu3dC/view?usp=sharing))
+[📹 Watch the Video]([https://drive.google.com/file/d/YOUR_VIDEO_ID/view](https://drive.google.com/file/d/1Ug_Oo_M_o0uxVMMDVAaWWElemRcpu3dC/view?usp=sharing/view))
 
 
 ### 🔗 Connect with Me
